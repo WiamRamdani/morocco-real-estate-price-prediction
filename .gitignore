@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+mon-app/build/
+avito_db/
+*.ibd
+*.frm
+*.log
+.DS_Store

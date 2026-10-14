@@ -1,0 +1,1113 @@
+Ville,Quartier,Prix,Surface Totale,Surface Habitable,Age,Chambres,Salles De Bain,Salons,Standing,Condition,Etage,Terrasse,Parking,Sécurité,Chauffage,Climatisation,Ascenseur
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Beauséjour,1120000DH,70,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,2,oui,non,non,non,oui,oui
+Rabat,Quartier de l'Océan,19500DH,93,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Lissasfa,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Wafa,3700000DH,500,Nan,11-20 ans,Nan,4,Nan,Nan,Bon état,1,non,non,oui,non,oui,non
+Casablanca,Quartier des Hôpitaux,1700000DH,81,Nan,Nan,Nan,0,Nan,Nan,Nan,2,oui,non,non,non,non,non
+Salé,Hay Rahma,3500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,El Haddada,400000DH,60,Nan,1-5 ans,1,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Settat,Toute la ville,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Meknès,Hamria,695000DH,85,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,4,oui,oui,oui,non,oui,oui
+Rabat,Souissi,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,600000DH,47,Nan,Nan,Nan,1,Nan,Nan,à rénover,0,non,non,non,non,non,non
+Agadir,Founty,2700000DH,200,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,3,non,non,oui,oui,oui,oui
+Temara,Firdaouss,2200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tétouan,Route de Ceuta,90000DH,8,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,0,non,oui,oui,non,non,non
+Marrakech,Guéliz,400000DH,20,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Agdal,550000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2151000DH,123,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Agadir,Hay Qods,640000DH,64,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Meknès,Ancienne Médina,6000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Val Fleuri,1800000DH,87,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,oui,non,non,non,non
+Casablanca,Hay Hassani,750000DH,58,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Agadir,Av Mokawama,860000DH,66,Nan,Nan,Nan,1,Nan,Nan,Neuf,5,non,non,oui,non,non,oui
+Casablanca,Oasis,2552000DH,116,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Marrakech,Hay Charaf,520000DH,47,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Guéliz,880000DH,58,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,non,oui,oui
+Casablanca,Gauthier,850000DH,44,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,oui,non
+Casablanca,Autre secteur,820000DH,85,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,oui,non,non
+Marrakech,Guéliz,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,460000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,non,oui,non,non,oui
+Casablanca,Abdelmoumen,1790000DH,90,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,oui,oui,oui,oui,oui,oui
+Kénitra,El Haddada,630000DH,88,Nan,Moins de 1 an,1,Nan,Nan,Nan,Neuf,1,non,non,non,non,oui,non
+Casablanca,Abdelmoumen,1600000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Marrakech,Massira 1,630000DH,49,Nan,Nan,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,oui
+Rabat,Hay Riad,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+El Jadida,Centre,1380000DH,138,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,2,non,oui,non,non,non,non
+Rabat,Aviation,5600000DH,420,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,non,non
+Agadir,Abattoirs,770000DH,49,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,6,non,oui,oui,oui,oui,oui
+Casablanca,Sidi Maarouf,17000DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Derb Omar,13500000DH,214,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Castilla,8000DH,85,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,non,non,non,non
+Marrakech,Issil,980000DH,74,Nan,Nan,Nan,2,Nan,Nan,Nan,3,non,non,non,non,non,non
+Casablanca,Racine,2200000DH,137,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Temara,Oued Eddahab,350000DH,74,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,oui,oui,non
+Fès,Hay Atlas,285000DH,43,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,non,non,non,non,non,non
+Khouribga,Toute la ville,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Lissasfa,3000DH,33,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,5,non,oui,oui,non,non,oui
+Tanger,Castilla,16000DH,95,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,non,oui,non,oui,oui
+Mohammedia,Quartier du Parc,880000DH,64,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Casablanca,Maarif,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Centre,770000DH,Nan,Nan,6-10 ans,Nan,2,Nan,Nan,Bon état,3,non,oui,oui,non,oui,oui
+Casablanca,Palmier,2650000DH,126,Nan,Nan,Nan,2,Nan,Nan,Nan,4,non,oui,non,non,non,oui
+Jorf El Melha,Toute la ville,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Al Qods,900000DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,non,non,oui,oui
+Marrakech,Guéliz,1600000DH,70,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,2400000DH,123,Nan,Nan,Nan,2,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Oulfa,420000DH,42,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,0,non,non,non,non,non,non
+Kénitra,La Ville Haute,450000DH,45,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Kénitra,Centre,800000DH,80,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Kénitra,Village,3250000DH,400,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,5,oui,non,oui,non,non,oui
+Marrakech,Azli,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Autre secteur,630000DH,87,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,oui
+Casablanca,Oasis,1144000DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,non,oui,oui
+Casablanca,Oulfa,699000DH,56,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,oui,non,oui,oui
+Marrakech,Guéliz,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,4650000DH,419,Nan,1-5 ans,Nan,3,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Marrakech,Guéliz,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Mimosas,595000DH,75,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,8,non,oui,oui,non,oui,oui
+Rabat,Diour Jamaa,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,1500000DH,84,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Casablanca,Maarif,1458000DH,81,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,2,non,oui,oui,oui,oui,oui
+Kénitra,Maamora,695000DH,85,Nan,21+ ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Casablanca,Anfa,1450000DH,102,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,3,oui,non,oui,non,non,oui
+Tanger,Centre ville,1280000DH,100,Nan,1-5 ans,3,2,Nan,Nan,Bon état,3,non,oui,oui,oui,non,oui
+Marrakech,Daoudiate,600000DH,45,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,oui,non,oui,non,oui,non
+Marrakech,Guéliz,2700000DH,169,Nan,Moins de 1 an,Nan,1,Nan,Nan,Bon état,3,non,non,oui,non,oui,oui
+Kénitra,Centre,1000000DH,93,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,oui,oui,non,oui,oui
+Casablanca,Oasis,1665000DH,74,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,oui,oui
+Fès,Hay Atlas,300000DH,43,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,non,non,non,non,non,non
+Kénitra,Maamora,610000DH,69,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,oui,non,non,non,non,non
+Kénitra,La Ville Haute,620000DH,85,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,oui,non
+Fès,Route de Sefrou,500000DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Casablanca,Alsace Lorraine,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Founty,1500000DH,84,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,non,oui,oui
+Kénitra,Centre,7000DH,75,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,oui,oui,oui,non,non,oui
+Kénitra,Al Maghrib Al Arabi,660000DH,100,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,non
+Kénitra,El Haddada,7000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Errahma,230000DH,17,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Rabat,Yacoub El Mansour,98000DH,16,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+El Jadida,Alaouiyine,860000DH,50,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Agadir,Tilila,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Palmier,24000DH,47,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Oulfa,1230000DH,82,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,oui,oui,oui
+Tanger,Malabata,550000DH,60,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Casablanca,Centre Ville,500000DH,Nan,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,oui,non
+Mohammedia,Quartier du Parc,870000DH,64,Nan,6-10 ans,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,non,oui
+Temara,Riad Oulad Mtaa,850000DH,78,Nan,6-10 ans,2,1,Nan,Nan,Nan,3,oui,non,non,non,non,non
+Casablanca,Aïn Diab,40000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gare,850000DH,81,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Hay Targa,1100000DH,80,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Casablanca,Anfa,1250000DH,102,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,3,oui,non,oui,non,non,oui
+Casablanca,2 Mars,14000DH,281,Nan,21+ ans,Nan,2,Nan,Nan,Nan,1,oui,oui,non,non,non,oui
+Oued Zem,Toute la ville,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Derb Ghallef,1146750DH,57,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Casablanca,Oulfa,1080000DH,80,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Mohammedia,Centre Ville,530000DH,41,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,oui,non,oui,non,oui,oui
+Casablanca,Derb Ghallef,1050000DH,83,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,3,oui,oui,oui,non,non,oui
+Casablanca,Maarif,2150000DH,103,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Kénitra,La Ville Haute,500000DH,59,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,oui,oui,non
+Casablanca,Ain Sebaa,1000000DH,71,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Ain Sebaa,7000DH,64,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,0,oui,non,oui,non,non,non
+Casablanca,Oulfa,595000DH,595000,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Agadir,Abattoirs,1900000DH,113,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,non,oui
+Had Soualem,Toute la ville,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Tassila,2900DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,390000DH,56,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,oui,oui,oui,oui
+Kénitra,Centre,940000DH,70,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,4,non,oui,oui,non,non,oui
+Agadir,Haut-Founty,886000DH,64,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,5,non,non,non,non,non,non
+Casablanca,C.I.L,12000000DH,403,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,oui,non,non
+Casablanca,Bourgogne,850000DH,68,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,0,oui,non,oui,non,non,oui
+Marrakech,Massira,500000DH,70,Nan,1-5 ans,2,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Berrechid,Toute la ville,1000000DH,150,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,0,non,non,oui,oui,oui,non
+Marrakech,Centre Ville,710000DH,Nan,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Fès,Hay Atlas,580000DH,73,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,oui,oui,oui,non,oui,oui
+Agadir,Tilila,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Centre Ville,1005000DH,67,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Daoudiate,672000DH,48,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,oui,oui,oui,oui
+Casablanca,Centre Ville,24000DH,Nan,Nan,Moins de 1 an,Nan,3,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,Bourgogne,2250000DH,105,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Maarif,330000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,Autre secteur,299000DH,33,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,oui,oui
+Casablanca,Belvédère,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,1365000DH,53,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2064000DH,86,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Casablanca,Belvédère,750000DH,61,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,oui,non,non,non,oui
+Casablanca,Maarif,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Autre secteur,891540DH,67,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,non,oui,oui
+Casablanca,Maarif,649000DH,32,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Racine,4990000DH,179,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Mohammedia,Wafa,1700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,1800000DH,88,Nan,11-20 ans,4,2,Nan,Nan,Nan,1,oui,non,oui,non,non,non
+Casablanca,Abdelmoumen,1420000DH,84,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Casablanca,Oasis,2600000DH,94,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,oui,oui,non,oui,oui
+Casablanca,Oasis,965000DH,42,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Hay Hassani,450000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Centre Ville,690000DH,40,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Kénitra,Val Fleury,360000DH,47,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Agadir,Founty,1850000DH,104,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,non,oui,non,oui,oui
+Casablanca,Maarif,6000000DH,400,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,oui,non,non
+Marrakech,Guéliz,550000DH,Nan,Nan,6-10 ans,2,1,Nan,Nan,Nan,2,non,oui,oui,non,oui,oui
+Agadir,Founty,1850000DH,85,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Agadir,Hay Massira,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Mimosas,560000DH,64,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Tétouan,Saniat Rmal,320000DH,19,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Fès,Ouled Tayeb,167000DH,24,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Roches Noires,7300000DH,112,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Salé,Hay Salam,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Settat,Toute la ville,369000DH,60,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Salé,Bettana,500DH,200,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Oulfa,620000DH,31,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Salé,Bettana,1300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Majorelle,850000DH,71,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,oui
+Casablanca,Autre secteur,570000DH,525,Nan,1-5 ans,1,1,Nan,Haut standing,Neuf,2,non,oui,oui,non,non,oui
+Agadir,Haut-Founty,745000DH,52,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,5,non,oui,oui,non,oui,oui
+Rabat,Hassan,9000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Oulfa,1380000DH,88,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,oui,non,oui
+Casablanca,Anfa,1950000DH,Nan,Nan,Nan,4,1,Nan,Nan,Nan,7,non,non,non,non,non,non
+Fès,Centre,500000DH,41,Nan,6-10 ans,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Moulay Youssef,2700000DH,89,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,oui,oui,oui,oui,oui
+Salé,Said Hajji,6000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gironde,1440000DH,133,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,non,non,non,oui
+Casablanca,Racine,2250000DH,112,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,non,oui,non,oui
+Casablanca,La Gironde,9900DH,152,Nan,21+ ans,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,oui
+Casablanca,Racine,2600000DH,164,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Casablanca,Centre Ville,450000DH,140,Nan,21+ ans,Nan,1,Nan,Nan,Nan,4,oui,non,non,non,non,non
+Marrakech,Guéliz,970000DH,61,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,non,oui,non,non,oui
+Rabat,Agdal,3200000DH,165,Nan,Nan,Nan,3,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Autre secteur,630000DH,84,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,oui,non,oui,non,non,non
+Mediouna,Toute la ville,450000DH,63,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Sidi Yahya El Gharb,Toute la Ville,399999DH,51,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Casablanca,Derb Omar,850000DH,64,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Abdelmoumen,1360000DH,84,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,oui,oui,oui
+Casablanca,Triangle d'Or,1550000DH,57,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,0,non,oui,non,non,non,non
+Casablanca,Aïn Diab,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Martil,Toute la ville,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Centre,525000DH,55,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Agadir,Hay Massira,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Wifak,210DH,196,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Kénitra,La Ville Haute,850000DH,95,Nan,Nan,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,oui,non
+Casablanca,Anfa,1390000DH,102,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,3,oui,non,oui,non,oui,oui
+Casablanca,Mers Sultan,240000DH,56,Nan,21+ ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Salé,Said Hajji,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Centre,800000DH,100,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,2,non,non,non,non,oui,oui
+Temara,Wifak,1300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,La Ville Haute,250000DH,28,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,non,non
+Kénitra,Maamora,485000DH,51,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,non,oui,non,non,non
+Marrakech,Guéliz,980000DH,92,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,5,non,non,oui,non,oui,oui
+Kénitra,La Ville Haute,300000DH,30,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,non,oui,non,non,non
+Casablanca,Quartier des Hôpitaux,2080000DH,147,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,oui,non,non,oui,oui
+Mohammedia,Centre Ville,650000DH,120,Nan,Nan,Nan,1,Nan,Nan,Nan,4,oui,non,non,non,non,non
+Casablanca,Roches Noires,720000DH,88,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,oui,non,non,non,non,oui
+Kénitra,quartier golf,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Mers Sultan,990000DH,93,Nan,6-10 ans,Nan,2,Nan,Nan,Bon état,3,oui,oui,oui,oui,oui,oui
+Marrakech,Majorelle,1400000DH,101,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,5,non,oui,oui,oui,oui,oui
+Casablanca,Sidi Maarouf,575000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Bon état,2,non,non,non,non,non,non
+Casablanca,Aïn Chock,800000DH,100,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,La Gironde,9000DH,92,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,oui,oui,oui,non,non,oui
+Agadir,Hay Salam,350DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Aouama Gharbia,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Maamora,380000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Salé,Dar El Lhamra,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Bd Derfoufi,600000DH,75,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,Abdelmoumen,1274000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Casablanca,Sidi Moumen,1300000DH,96,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,non,oui,oui,non
+Agadir,Hay Mohammadi,1000DH,1000,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Route Ain Chkaf,1050000DH,93,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Marrakech,Guéliz,1800000DH,102,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,oui,non,oui
+Agadir,Taddart,6000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Mimosas,640000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,non,non
+Casablanca,Oasis,25000000DH,2648,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,oui,oui,oui,non,oui
+Settat,Hay Mabrouka,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Bouaakkaz,1600000DH,103,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,oui
+Casablanca,Sidi Moumen,2200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Oulfa,1400000DH,70,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Casablanca,Centre Ville,1820000DH,116,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Agadir,Hay Massira,590DH,310,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Tanger,Moulay Youssef,2200000DH,120,Nan,Nan,Nan,1,Nan,Nan,Nan,5,non,oui,oui,non,oui,oui
+Fès,Centre,760000DH,72,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,5,non,oui,oui,oui,oui,oui
+Fès,Centre,400000DH,Nan,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Safi,Lalla Hnia Hamria,460000DH,90,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Marrakech,Daoudiate,652800DH,48,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,oui,oui,oui
+Casablanca,Centre Ville,1390000DH,146,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Kénitra,Centre,4000DH,90,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,La Ville Haute,679999DH,78,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,oui,oui,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Massira 1,1340000DH,95,Nan,Nan,Nan,2,Nan,Nan,Neuf,1,non,non,oui,non,non,oui
+Casablanca,Bournazil,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,616000DH,44,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Marrakech,Route de Casablanca,17000DH,91,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Marrakech,Daoudiate,636850DH,47,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,oui,oui,oui
+Casablanca,Roches Noires,1150000DH,82,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,non,oui,oui
+Casablanca,La Gironde,1351250DH,124,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,oui,non,non,oui
+Meknès,Hamria,660000DH,60,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,oui,oui,oui,non,non,oui
+Kénitra,Centre,750000DH,60,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Kénitra,Khabazat,520000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,non,non,oui,non,oui,oui
+Agadir,Abattoirs,12000DH,242,Nan,Nan,Nan,2,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Tanger,Centre ville,1DH,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Bourgogne,2000000DH,97,Nan,Nan,Nan,1,Nan,Nan,Nan,5,non,oui,non,non,non,oui
+Casablanca,Les Princesses,2300000DH,136,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,0,non,oui,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Massira 1,4000DH,42,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,non,non,non,non,oui
+Fès,Centre,450000DH,67,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,non,oui,non,non,non
+Casablanca,Errahma,599DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Maarouf,750000DH,42,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Casablanca,Beauséjour,1500000DH,143,Nan,11-20 ans,2,1,Nan,Moyen standing,Bon état,6,oui,oui,non,non,oui,oui
+Casablanca,Belvédère,13000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,300000DH,80,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Marrakech,Hay Izdihar,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,980000DH,47,Nan,Nan,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Casablanca,Sidi Maarouf,125DH,70,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Kénitra,Centre,685000DH,74,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Fès,Route de Sefrou,342000DH,38,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,6,non,oui,oui,non,non,oui
+Kénitra,La Ville Haute,1DH,92,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Dcheira,Toute la ville,730000DH,68,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,3,non,non,oui,non,non,oui
+Mohammedia,Quartier du Parc,700000DH,50,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Quartier des Hôpitaux,1100000DH,145,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Salé,Sidi Moussa,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tétouan,Centre ville,950000DH,104,Nan,11-20 ans,3,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Ain Mezouar,370000DH,47,Nan,11-20 ans,1,1,Nan,Nan,Nan,3,non,oui,oui,non,oui,non
+Fès,Agdal,450000DH,64,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,oui,oui,oui,oui,oui,oui
+Oujda,Bd Derfoufi,12500DH,86,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,6,non,non,oui,non,non,oui
+Casablanca,Abdelmoumen,1360000DH,84,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Tanger,Castilla,1300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Racine,1500000DH,137,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Casablanca,La Gironde,1449000DH,133,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,oui,non,non,oui
+Tanger,Centre,7000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Souissi,3600000DH,175,Nan,Moins de 1 an,Nan,3,Nan,Nan,Neuf,0,oui,oui,oui,non,oui,oui
+Casablanca,Roches Noires,100000DH,160,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,El Haddada,500000DH,74,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Californie,750DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Bernoussi,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,1580000DH,113,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Quartier des Hôpitaux,1400000DH,81,Nan,6-10 ans,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Casablanca,Abdelmoumen,1100000DH,145,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,oui,oui,oui,non,non,oui
+Fès,Autre secteur,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Val Fleury,1400000DH,140,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Rabat,Aakkari,469DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Aïn Chock,590000DH,29,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Rabat,Agdal,2700000DH,210,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Salé,El Qaria,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Quartier du Parc,820000DH,68,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,3,non,non,non,non,non,non
+Kénitra,Centre,8500DH,71,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,4,non,non,oui,non,non,oui
+Berkane,Toute la ville,7000DH,67,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Bouskoura,Victoria,600000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,non,non,non,oui
+Casablanca,Oasis,17800DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,non,non,oui,oui
+Casablanca,Quartier des Hôpitaux,1800000DH,81,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,2,oui,oui,oui,oui,oui,oui
+Casablanca,Bourgogne,1450000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Rabat,Aviation - Mabella,1800000DH,120,Nan,6-10 ans,2,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Temara,Maghreb Arabi,2000DH,,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Dar Bouazza,Toute la ville,520000DH,40,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Agadir,Abattoirs,12000DH,242,Nan,Nan,Nan,2,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Oujda,Autre secteur,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gironde,720000DH,54,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,3,non,oui,oui,non,oui,non
+Marrakech,Daoudiate,516750DH,39,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,oui,oui,oui,oui
+Mohammedia,Quartier du Parc,820000DH,60,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Sidi Maarouf,1190000DH,89,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,non,oui,oui
+Casablanca,Hay Sadri,72800DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,non,non,oui,oui
+Casablanca,Anfa,550000DH,55,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,oui,non,non,non,non,oui
+Casablanca,Aïn Chock,200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Belvédère,12000DH,113,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,1,non,oui,non,non,oui,oui
+Kénitra,Centre,810000DH,74,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,Anfa,650000DH,49,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Hay Al Hassani,357000DH,21,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,non,non,non
+Casablanca,Mers Sultan,660000DH,Nan,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,non,oui
+Agadir,Founty,2415000DH,138,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,oui,non,oui,non,oui,oui
+Fès,Route d'Immouzere,560000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,non,oui
+Casablanca,Belvédère,1350000DH,123,Nan,21+ ans,3,2,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Casablanca,Aïn Borja,560000DH,39,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,oui,oui,oui
+Marrakech,Route de Casablanca,2400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Ain Sebaa,495000DH,48,Nan,Nan,2,2,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Maârif Extension,1350000DH,113,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Kénitra,Mimosas,960000DH,82,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,non,oui,oui
+Fès,Centre,3500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Roches Noires,250000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Tanger,Centre ville,1350000DH,100,Nan,1-5 ans,4,2,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Casablanca,Maarif,1100000DH,91,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Casablanca,Oulfa,1200000DH,160,Nan,21+ ans,Nan,2,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Casablanca,Hay Hassani,728000DH,56,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Casablanca,Aïn Chock,12440000DH,63,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Agadir,Taddart Anza,430000DH,55,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,non,non,oui,non
+Fès,Agdal,590000DH,59,Nan,21+ ans,Nan,1,Nan,Nan,Neuf,0,non,oui,oui,non,oui,oui
+Mohammedia,Zone industrielle,1500000DH,500,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,oui,non
+Marrakech,Daoudiate,662400DH,48,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,oui,oui,oui
+Marrakech,Massira 1,560000DH,45,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,5,non,non,oui,non,non,oui
+Casablanca,Derb Omar,100000DH,30,Nan,21+ ans,Nan,1,Nan,Nan,à rénover,1,non,non,oui,non,non,non
+Casablanca,Val Fleuri,1900000DH,112,Nan,Nan,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Marrakech,Majorelle,920000DH,78,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+El Menzeh,Toute la ville,2100000DH,134,Nan,Moins de 1 an,3,2,Nan,Nan,Neuf,0,oui,non,oui,non,oui,non
+Casablanca,Quartier des Hôpitaux,1900000DH,173,Nan,Nan,Nan,2,Nan,Nan,Nan,7,non,non,non,non,non,non
+Casablanca,Ben M'sick,600000DH,80,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Aïn Chock,550DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Hay El Farah,2250DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Meknès,Marjane 2,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Administratif,1050000DH,65,Nan,6-10 ans,2,1,Nan,Haut standing,Bon état,6,non,oui,non,non,non,oui
+Casablanca,Abdelmoumen,1520000DH,67,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,La Gironde,480000DH,Nan,Nan,11-20 ans,Nan,Nan,Nan,Nan,Bon état,1,non,non,oui,non,oui,non
+Marrakech,Guéliz,1700000DH,225,Nan,1-5 ans,Nan,2,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Meknès,Marjane 2,25000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Maarouf,775000DH,51,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Rabat,Quartier de l'Océan,1200000DH,55,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,3,non,oui,oui,non,oui,oui
+Rabat,Agdal,2540000DH,127,Nan,21+ ans,Nan,2,Nan,Nan,Nan,3,oui,oui,oui,non,oui,oui
+Kénitra,La Ville Haute,240000DH,27,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,non
+Oujda,Bd Derfoufi,12500DH,86,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,6,non,oui,non,non,oui,oui
+Casablanca,Aïn Diab,14500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Centre Ville,2700000DH,172,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,6,non,oui,oui,non,non,non
+Marrakech,Sakar,100000DH,14,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,oui,oui,oui,non,non,non
+Casablanca,2 Mars,23000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Abbadi,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gironde,720000DH,54,Nan,21+ ans,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,oui,non
+Casablanca,Sidi Maarouf,750DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Bir Rami,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Hay Atlas,285000DH,43,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Route d'Azemmour,1790000DH,101,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Kénitra,La Ville Haute,760000DH,76,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,non,non,oui,non,oui,non
+Kénitra,Mimosas,760000DH,55,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,0,non,oui,oui,non,non,oui
+Agadir,Talborjt,1200000DH,86,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Route Ain Chkaf,200000DH,35,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,non,non,non,non,non,non
+Casablanca,Errahma,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Hay Mohammadi,1060000DH,71,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,oui,oui,oui,oui
+Casablanca,Sidi Maarouf,1830000DH,141,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,1,oui,oui,oui,non,oui,oui
+Marrakech,Route de Casablanca,980000DH,65,Nan,Nan,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,non,oui
+Casablanca,La Gironde,690000DH,65,Nan,11-20 ans,2,1,Nan,Nan,Nan,1,oui,oui,non,non,non,oui
+Casablanca,Route d'Azemmour,590000DH,38,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,2 Mars,450DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Av Mokawama,616000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,non,non,non,non,oui
+Casablanca,Californie,200000DH,125,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Maarif,2900000DH,202,Nan,11-20 ans,Nan,3,Nan,Nan,Nan,6,non,non,non,non,oui,oui
+Marrakech,Hivernage,960000DH,70,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Casablanca,Oulfa,4500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Meknès,Ville Nouvelle,10000DH,95,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Rabat,Hassan,900000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Anfa,550000DH,55,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,non,oui
+Casablanca,Sidi Belyout,1090000DH,88,Nan,Nan,Nan,1,Nan,Nan,Nan,4,oui,non,non,non,non,oui
+Oujda,Centre Ville,1300000DH,117,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,oui
+Marrakech,Guéliz,2200000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,oui,oui,oui
+Agadir,Hay Dakhla,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gironde,600000DH,82,Nan,21+ ans,1,1,Nan,Nan,Nan,7,oui,oui,oui,non,non,oui
+Rabat,Quartier de l'Océan,19500DH,93,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Agadir,Talborjt,1330000DH,78,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,oui,non
+Berkane,Toute la ville,780000DH,75,Nan,6-10 ans,3,1,Nan,Nan,Nan,3,oui,non,oui,oui,oui,oui
+Casablanca,Centre Ville,520000DH,45,Nan,11-20 ans,1,1,Nan,Nan,Nan,2,oui,non,oui,non,non,oui
+Casablanca,Hay Mohammadi,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Daoudiate,745000DH,73,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,non,oui,oui,oui,oui
+Casablanca,Oulfa,250000DH,58,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Bourgogne,1150000DH,49,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,oui,non,oui,oui,non
+Casablanca,Aïn Chock,575000DH,50,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Sidi Maarouf,6000000DH,300,Nan,Nan,Nan,2,Nan,Nan,Nan,4,non,oui,non,non,non,oui
+Marrakech,Hivernage,300000DH,55,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Rabat,Hassan,2200000DH,141,Nan,Moins de 1 an,Nan,1,Nan,Nan,Bon état,0,non,non,non,non,non,non
+Rabat,Diour Jamaa,1600000DH,88,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Casablanca,Sidi Moumen,300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Centre ville,1450000DH,100,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Daoudiate,505400DH,38,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,oui,oui,oui,oui
+Kénitra,El Haddada,530000DH,93,Nan,1-5 ans,3,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Rabat,Hay Riad,3290000DH,144,Nan,6-10 ans,3,3,Nan,Nan,Nan,2,oui,oui,oui,non,non,oui
+Fès,Hay Saada,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,M'Hamid,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Hay Al Massar,959000DH,134,Nan,Nan,Nan,2,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Fès,Agdal,800000DH,60,Nan,Moins de 1 an,1,1,Nan,Nan,Neuf,2,non,oui,oui,non,non,oui
+Oujda,Centre Ville,680000DH,80,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Marrakech,Guéliz,900000DH,Nan,Nan,1-5 ans,1,1,Nan,Nan,Nan,4,non,non,oui,oui,oui,oui
+Fès,Fes Jdid,360000DH,34,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,2,non,oui,oui,oui,oui,oui
+Casablanca,Anfa,1250000DH,72,Nan,11-20 ans,2,1,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Bouskoura,Bouskoura centre,627000DH,66,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,oui,oui
+Casablanca,Abdelmoumen,1985000DH,147,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,5,oui,oui,oui,oui,oui,oui
+Rabat,Agdal,4500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Maarouf,850000DH,43,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Iberie,480000DH,12,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Hay Inara,2200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Inzegan,Toute la ville,442000DH,52,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Agadir,Av Mokawama,670000DH,57,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,non,non,non
+Casablanca,Maarif,1274000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Lissasfa,550000DH,40,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Béni Mellal,Toute la ville,780000DH,100,Nan,Nan,Nan,1,Nan,Nan,Neuf,2,oui,non,oui,oui,oui,oui
+Rabat,Agdal,2090000DH,Nan,Nan,Nan,3,2,Nan,Nan,Bon état,2,non,non,non,non,non,non
+Tanger,Médina,13500DH,139,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Massira 1,520000DH,48,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,non,oui,non,oui,oui
+Marrakech,Allal El Fassi,980000DH,74,Nan,11-20 ans,Nan,2,Nan,Nan,Bon état,3,non,non,oui,non,non,oui
+Casablanca,Anfa,1350000DH,102,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,3,oui,non,oui,non,non,oui
+Kénitra,Mimosas,290000DH,43,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,0,non,non,oui,non,non,non
+Marrakech,Av Mohammed V,950000DH,62,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,oui
+Casablanca,Mers Sultan,1500000DH,159,Nan,21+ ans,Nan,2,Nan,Nan,Bon état,4,non,non,non,non,non,oui
+Casablanca,Anfa,350000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,oui,non,non,oui
+Casablanca,Abdelmoumen,1100000DH,Nan,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Centre Ville,1150000DH,117,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,oui,non,non,oui
+Kénitra,Centre,700000DH,74,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Marrakech,Hay Massira,300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Mers Sultan,500000DH,57,Nan,21+ ans,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Marrakech,Guéliz,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,648000DH,81,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,6,oui,non,oui,oui,oui,oui
+Casablanca,Roches Noires,800000DH,53,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,oui,non,non,non,non,non
+Kénitra,La Ville Haute,370000DH,35,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,non,oui,non
+Marrakech,Targa,797DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Bourgogne,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Agdal,2000000DH,190,Nan,Nan,Nan,2,Nan,Nan,Nan,0,oui,oui,oui,oui,oui,oui
+Casablanca,Maarif,1500000DH,124,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Casablanca,Belvédère,12000DH,120,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,4,non,oui,oui,oui,oui,oui
+Dcheïra El Jihadia,Toute la ville,790000DH,66,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,non,oui,oui
+Casablanca,Oulfa,1300000DH,82,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,oui,oui,oui,non,oui
+Kénitra,Centre,350000DH,Nan,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Had Soualem,Toute la ville,800000DH,100,Nan,1-5 ans,Nan,Nan,Nan,Nan,Neuf,3,oui,oui,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Av Mokawama,700000DH,62,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,3,non,non,oui,non,oui,oui
+Fès,Centre,250000DH,101,Nan,21+ ans,3,1,Nan,Moyen standing,Bon état,3,non,oui,oui,oui,oui,non
+Fès,Route d'Immouzere,580000DH,54,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Fès,Agdal,500000DH,73,Nan,Nan,Nan,1,Nan,Nan,Nan,6,non,oui,non,non,oui,oui
+Oujda,Centre Ville,850000DH,73,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,4,non,oui,oui,oui,oui,oui
+Casablanca,Sidi Maarouf,1400000DH,71,Nan,6-10 ans,Nan,1,Nan,Moyen standing,Bon état,1,non,oui,oui,non,non,oui
+Casablanca,La Gironde,1420000DH,124,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,non,non,non,oui
+Bouskoura,Victoria,600000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Kénitra,Maamora,750DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Moulay Youssef,1500000DH,106,Nan,6-10 ans,1,1,Nan,Nan,Nan,0,non,oui,oui,non,non,oui
+Casablanca,Bourgogne,1350000DH,80,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Casablanca,Maarif,2250000DH,105,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,oui,non,non,non,non,oui
+Casablanca,Centre Ville,260000DH,176,Nan,21+ ans,Nan,2,Nan,Nan,Nan,1,oui,non,oui,oui,oui,oui
+Kénitra,Maamora,930000DH,109,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,non,non
+Fès,Narjis,325000DH,63,Nan,Nan,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,oui,oui,oui
+Rabat,Agdal,1850000DH,112,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,non,non,non
+Casablanca,Ain Sebaa,24000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Partie Est,730000DH,49,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Casablanca,Bourgogne,1980000DH,86,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,7,oui,oui,oui,non,oui,oui
+Kénitra,Centre,11000DH,66,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,non
+Agadir,Sonaba,1260000DH,70,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,3,oui,oui,oui,non,oui,oui
+Casablanca,Roches Noires,640000DH,66,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,non,non,non,non,oui
+Casablanca,Abdelmoumen,1360000DH,67,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,2,non,oui,oui,non,non,oui
+Salé,Hay Chmaou,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Allal El Fassi,5500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Castilla,1168000DH,73,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,7,non,non,non,non,non,non
+Kénitra,Centre,590000DH,74,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,oui
+Marrakech,Bouaakkaz,1470000DH,94,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,non,non,non,non,non,oui
+Kénitra,Mimosas,1000000DH,70,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+الدار البيضاء,Oulfa,700000DH,50,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,Anfa,3300000DH,144,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,3,non,non,non,non,non,non
+Rabat,Hay Riad,2500DH,Nan,Nan,21+ ans,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Beauséjour,1250000DH,50,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Fès,Centre,420000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,non,non,oui
+Casablanca,Sidi Maarouf,6500000DH,300,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,4,non,oui,oui,oui,oui,oui
+Casablanca,Quartier des Hôpitaux,2390000DH,125,Nan,Nan,Nan,1,Nan,Nan,Nan,2,oui,oui,non,non,non,oui
+Casablanca,La Gironde,1450000DH,111,Nan,11-20 ans,Nan,2,Nan,Nan,Neuf,6,non,oui,oui,non,non,oui
+Casablanca,Sidi Maarouf,780000DH,64,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Tanger,Moulay Youssef,1300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,400000DH,68,Nan,Nan,3,Nan,Nan,Nan,Bon état,2,non,non,non,non,non,oui
+Casablanca,Sidi Maarouf,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Al Irfane,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Gauthier,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Zone Industrielle Agadir,1012500DH,65,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,oui,oui
+Casablanca,Maârif Extension,1900000DH,105,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Casablanca,Autre secteur,560000DH,60,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Oujda,Centre Ville,390000DH,48,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Casablanca,Derb Ghallef,1274000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Abdelmoumen,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Ben Dibane,1020000DH,68,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Kénitra,Centre,91000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,non,oui,non,non,non
+Casablanca,Maarif,1500000DH,92,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,non,oui,oui,non,oui,oui
+Casablanca,Anfa,12000000DH,1215,Nan,Nan,Nan,4,Nan,Nan,Nan,5,oui,oui,oui,non,non,oui
+Tanger,Boukhalef,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Hay Dakhla,975000DH,78,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Casablanca,Autre secteur,2400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,1274000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Rabat,Hassan,1800000DH,86,Nan,Nan,Nan,1,Nan,Nan,Bon état,4,oui,oui,oui,oui,oui,oui
+Casablanca,Mers Sultan,360000DH,100,Nan,21+ ans,Nan,2,Nan,Nan,Nan,1,non,non,oui,oui,oui,non
+Berrechid,Toute la ville,808500DH,77,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,non,non,non,non,oui
+Mohammedia,Centre Ville,1614000DH,134,Nan,Nan,Nan,Nan,Nan,Nan,Neuf,2,non,non,oui,non,non,non
+Kénitra,La Ville Haute,420000DH,49,Nan,6-10 ans,Nan,0,Nan,Nan,Bon état,0,non,non,oui,non,non,non
+Kénitra,Centre,400000DH,76,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,0,oui,non,non,non,non,non
+Rabat,Autre secteur,1400000DH,71,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,1,non,oui,oui,non,oui,non
+Rabat,Agdal,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,La Gironde,500000DH,57,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,3,non,non,non,non,non,non
+Casablanca,Roches Noires,620000DH,48,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+Rabat,Kébibat,120DH,55,Nan,Nan,Nan,1,Nan,Nan,Nan,4,oui,non,non,non,non,oui
+Casablanca,Centre Ville,984000DH,40,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+El Jadida,Centre,1200000DH,110,Nan,1-5 ans,Nan,2,Nan,Nan,Bon état,1,non,non,non,non,non,oui
+Meknès,Ville Nouvelle,10000DH,97,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Maarif,1830000DH,103,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,4,non,oui,oui,non,oui,oui
+Tanger,Iberie,300000DH,20,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Marrakech,Bouaakkaz,830000DH,53,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Marrakech,Daoudiate,655650DH,47,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,oui,oui,oui,oui
+Casablanca,Aïn Chock,922000DH,49,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Kénitra,El Haddada,540000DH,Nan,Nan,Moins de 1 an,2,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Oulfa,600DH,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Les Portes de Marrakech,1750000DH,152,Nan,Nan,Nan,2,Nan,Nan,Neuf,1,non,oui,oui,non,oui,non
+Tanger,Administratif,8500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Dar Bouazza,Toute la ville,100DH,98,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,2,oui,oui,non,non,non,non
+Fès,Agdal,485000DH,46,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,7,non,non,non,non,non,non
+Agadir,Autre secteur,150000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,Nan,non,oui,oui,non,oui,non
+Oujda,Autre secteur,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,1900000DH,83,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Casablanca,Aïn Borja,649DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Centre,770000DH,80,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,0,oui,non,oui,non,non,non
+Casablanca,Maarif,670000DH,70,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Marrakech,Ancienne Médina,1400000DH,114,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,oui,non,oui,non,oui
+Casablanca,Centre Ville,625000DH,Nan,Nan,21+ ans,2,1,Nan,Moyen standing,Bon état,1,non,non,oui,non,non,oui
+Casablanca,Oasis,1420000DH,54,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Oulfa,1200000DH,82,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Ain Sebaa,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Anfa,1450000DH,102,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,3,non,non,non,non,non,non
+Safi,Bahia,1300000DH,97,Nan,21+ ans,6,2,Nan,Nan,à rénover,1,oui,oui,oui,non,oui,oui
+Casablanca,Quartier des Hôpitaux,2080000DH,147,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,oui
+Casablanca,Derb Ghallef,1274000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Rabat,Riyad,3000000DH,70,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,0,non,oui,non,non,oui,non
+Mohammedia,Quartier du Parc,2496000DH,192,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Abdelmoumen,1350000DH,133,Nan,Nan,Nan,1,Nan,Nan,Nan,2,oui,oui,non,non,non,oui
+Oujda,Centre Ville,920000DH,102,Nan,Nan,Nan,1,Nan,Nan,Neuf,6,non,non,oui,non,non,oui
+Casablanca,Bourgogne,940000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Larache,Toute la ville,700000DH,83,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Oulfa,1200000DH,88,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Maarif,2800000DH,190,Nan,Nan,Nan,2,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Fès,Oued Fès,150000DH,100,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Oujda,Centre Ville,320000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,non,non,non,non,oui
+Tanger,Centre ville,1360000DH,78,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,oui,oui
+Fès,Centre,420000DH,Nan,Nan,Moins de 1 an,1,1,Nan,Nan,Neuf,4,non,non,non,non,non,non
+Casablanca,Racine,850000DH,45,Nan,Nan,Nan,1,Nan,Nan,Nan,6,non,non,non,non,non,oui
+Kénitra,El Haddada,450000DH,35,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,oui,non
+Casablanca,Sidi Maarouf,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Talborjt,11000DH,140,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,non,non,oui
+Casablanca,Ain Sebaa,1500000DH,140,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,non,non,non,oui
+Casablanca,Centre Ville,520000DH,45,Nan,11-20 ans,1,1,Nan,Nan,Nan,2,oui,non,oui,non,non,oui
+Casablanca,Racine,5124000DH,183,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,non
+Casablanca,Racine,60000000DH,2500,Nan,Nan,Nan,Nan,Nan,Nan,Nan,7,oui,oui,non,non,non,oui
+Agadir,Hay Zaytoun,825000DH,75,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,oui,oui
+Fès,Centre,560000DH,53,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Meknès,Hamria,200000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2400000DH,212,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,5,oui,oui,oui,non,non,oui
+Casablanca,Oasis,1800000DH,71,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,non,oui,oui
+Casablanca,Alsace Lorraine,1550000DH,156,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,non,non,non,non,non,oui
+Safi,LABC,4000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Centre Ville,650000DH,120,Nan,Nan,Nan,1,Nan,Nan,Bon état,4,oui,non,non,non,non,non
+Marrakech,Guéliz,1050000DH,92,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,5,non,non,oui,non,non,oui
+Marrakech,Guéliz,620000DH,44,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Meknès,Autre secteur,760000DH,86,Nan,Nan,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Centre Ville,2800000DH,190,Nan,Nan,Nan,2,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Fès,Ben Souda,8500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Centre ville,17999DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,oui
+Agadir,Zone Industrielle Agadir,1149DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,350000DH,70,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Casablanca,Sidi Maarouf,625000DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,oui,oui,oui
+Rabat,Autre secteur,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hay Riad,900DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Founty,1300000DH,70,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,non,oui,oui
+El Jadida,Centre,860000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Mohammedia,Quartier du Parc,4797000DH,369,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Belvédère,980000DH,106,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,non,oui
+Casablanca,Bourgogne,1865000DH,64,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,6,oui,oui,oui,non,oui,oui
+Casablanca,Palmier,900000DH,60,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,oui
+Marrakech,Route de Casablanca,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2652000DH,197,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Agadir,Centre Ville,12000DH,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,non
+Marrakech,Guéliz,680000DH,65,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,4,oui,non,non,oui,oui,oui
+Berrechid,Toute la ville,660000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Marrakech,Daoudiate,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Racine,1500000DH,100,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,4,non,oui,non,non,non,oui
+Casablanca,Derb Omar,13500000DH,215,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Bourgogne,1650000DH,110,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,non,non,non,non,non,oui
+Casablanca,Ain Sebaa,980000DH,112,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,non,oui,oui,oui,oui,non
+Marrakech,Guéliz,950000DH,67,Nan,Nan,1,1,Nan,Moyen standing,Neuf,0,oui,oui,oui,oui,oui,non
+Tanger,Castilla,996000DH,83,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,non,oui
+Marrakech,Bab Doukkala,1100000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Tanger,Centre ville,130000DH,35,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Kénitra,alliance,280000DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,oui,non
+Casablanca,Al Mostakbal,980000DH,66,Nan,Nan,Nan,1,Nan,Nan,Nan,3,oui,oui,non,non,non,oui
+Casablanca,Mers Sultan,780000DH,72,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,non,oui,non,non
+Casablanca,Abdelmoumen,670000DH,40,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Casablanca,Maarif,980000DH,71,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,oui,non,oui,non,oui,oui
+Kénitra,Maamora,1350000DH,136,Nan,11-20 ans,Nan,2,Nan,Nan,à rénover,1,non,non,oui,non,non,non
+Kénitra,Centre,590000DH,85,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,8,non,oui,oui,oui,non,oui
+Casablanca,Bourgogne,25000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Haut-Founty,960000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Skhirat,Plage rose marae,3500000DH,180,Nan,21+ ans,Nan,2,Nan,Nan,Nan,0,oui,oui,oui,non,non,non
+Casablanca,Belvédère,1500000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,oui,oui,non,oui,oui
+Fès,Agdal,400000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Errahma,470000DH,48,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Casablanca,Ain Sebaa,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,450000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Marrakech,Annakhil,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Val Fleury,247000DH,25,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Oujda,Hay Lazaret,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,590000DH,62,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,non,oui,non,non,oui
+Kénitra,La Ville Haute,650000DH,75,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,0,non,non,non,non,non,non
+Marrakech,Bab Doukkala,977500DH,85,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Casablanca,Quartier des Hôpitaux,2500000DH,Nan,Nan,Nan,2,2,Nan,Nan,Nan,3,non,non,non,non,non,oui
+Meknès,Hamria,235000DH,48,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,oui,non,oui,oui,oui,non
+Casablanca,Alsace Lorraine,8570000DH,551,Nan,Nan,Nan,Nan,Nan,Nan,Nan,7,non,oui,oui,oui,non,oui
+Casablanca,2 Mars,2500000DH,142,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,4,non,non,non,non,non,non
+Casablanca,Racine,1400000DH,91,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,7,oui,non,non,non,oui,oui
+Marrakech,Guéliz,29000000DH,2175,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,oui,oui,oui,oui,oui,oui
+Casablanca,Autre secteur,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Quartier des Hôpitaux,2500000DH,125,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,2,oui,oui,non,non,oui,oui
+Rabat,Médina de Rabat,1350000DH,35,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Agadir,Founty,1452500DH,83,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,oui,non,oui,oui
+El Menzeh,Toute la ville,1950000DH,135,Nan,1-5 ans,3,3,Nan,Nan,Nan,0,oui,oui,oui,oui,oui,non
+Temara,Autre secteur,1500000DH,77,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Fès,Zouagha,410000DH,87,Nan,6-10 ans,2,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,Centre,600000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,6,non,oui,oui,non,non,oui
+Rabat,Hassan,2000000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,oui,oui
+Casablanca,Autre secteur,2550000DH,150,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,oui,oui,non,oui
+Casablanca,Aïn Chock,922000DH,49,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Meknès,Hamria,500000DH,43,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,non,oui,oui
+Rabat,Autre secteur,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Inzegan,Toute la ville,1000000DH,73,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,3,oui,oui,oui,non,non,oui
+Casablanca,Hay Rajaa,1400000DH,87,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,2,non,non,non,non,non,non
+Casablanca,Mers Sultan,570000DH,40,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,3,oui,oui,oui,oui,oui,oui
+Essaouira,Le boulevard Mohammed V,2200000DH,44,Nan,Nan,Nan,1,Nan,Nan,Bon état,0,oui,oui,oui,non,oui,non
+Temara,Autre secteur,800000DH,86,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Aïn Chock,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Safi,Plateau,752186DH,100,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,2,non,oui,non,non,non,oui
+Casablanca,Industriel Nord,16000000DH,2695,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,oui,oui,non
+Casablanca,Maârif Extension,1600000DH,92,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Belvédère,18000000DH,494,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Ain Sebaa,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,2282000DH,163,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,oui,oui,non,oui
+Laâyoune,Toute la ville,24000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,2200000DH,114,Nan,Nan,Nan,1,Nan,Nan,Nan,4,oui,oui,oui,non,non,oui
+Meknès,Hamria,6000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Alsace Lorraine,1700000DH,122,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Rabat,Hay Nahda,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Centre Ville,390000DH,35,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,1,oui,non,oui,non,non,oui
+Casablanca,Bourgogne,2350000DH,117,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Casablanca,Racine,2164500DH,159,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,non,non,oui
+Marrakech,Massira 1,630000DH,49,Nan,Nan,Nan,1,Nan,Nan,Neuf,2,non,non,oui,non,non,oui
+Casablanca,Ben M'sick,579500DH,63,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,oui,oui,non,non,non,non
+Tanger,Centre ville,1280000DH,Nan,Nan,1-5 ans,2,3,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Casablanca,Roches Noires,11000000DH,1278,Nan,6-10 ans,Nan,5,Nan,Nan,Nan,5,oui,oui,oui,oui,oui,oui
+Casablanca,Racine,2090000DH,144,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,oui
+Tanger,Centre ville,900000DH,52,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Abdelmoumen,45000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Massira 1,630000DH,49,Nan,Nan,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Fès,Fes Jdid,380000DH,38,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,7,oui,oui,oui,oui,oui,oui
+Oujda,Centre Ville,790000DH,80,Nan,6-10 ans,Nan,1,Nan,Nan,Neuf,0,oui,non,oui,oui,oui,oui
+Casablanca,Autre secteur,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Belyout,1180000DH,100,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Casablanca,Sidi Moumen,1200000DH,96,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,oui,oui,non
+Marrakech,Guéliz,14500DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Kénitra,La Ville Haute,420000DH,50,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,6,non,non,oui,oui,oui,oui
+Casablanca,Quartier des Hôpitaux,1700000DH,81,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,oui,non,oui
+Salé,Tabriquet,350DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2200000DH,101,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,oui,oui,oui
+Casablanca,Oulfa,1300000DH,82,Nan,Nan,Nan,1,Nan,Nan,Nan,5,oui,non,non,non,non,non
+Agadir,Hay Salam,2700DH,11,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Oujda,Centre Ville,120000DH,90,Nan,Nan,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Quartier des Hôpitaux,2940000DH,210,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Casablanca,Derb Ghallef,1155000DH,59,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Casablanca,Sidi Bernoussi,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Wifak,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Derb Omar,120000DH,35,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,5,non,oui,oui,non,oui,oui
+El Jadida,Hay Al Amal,1600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,40000DH,2,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Marrakech,Azzouzia,450000DH,67,Nan,11-20 ans,2,Nan,Nan,Nan,Nan,1,non,oui,oui,non,oui,non
+Tanger,Administratif,1000000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,oui,oui,oui,oui
+Rabat,Haut Agdal,3500000DH,189,Nan,Nan,Nan,1,Nan,Nan,Nan,Nan,oui,oui,non,non,non,oui
+Casablanca,Centre Ville,2584000DH,272,Nan,Nan,Nan,Nan,Nan,Nan,Nan,7,non,non,non,non,non,non
+Marrakech,Daoudiate,646250DH,47,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,oui,oui,oui
+Marrakech,Daoudiate,729500DH,73,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,non,oui,oui,oui,oui
+Casablanca,Bourgogne,1628000DH,148,Nan,Nan,Nan,2,Nan,Nan,Nan,Nan,oui,non,non,non,non,oui
+Casablanca,Sidi Maarouf,4950000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Bon état,5,non,oui,oui,non,oui,oui
+Casablanca,Sidi Moumen,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Quartier du Parc,15000DH,64,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,4,oui,oui,oui,oui,oui,oui
+Mohammedia,Autre secteur,2300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Centre,495000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,0,oui,non,non,non,non,non
+Marrakech,Amerchich,1078000DH,98,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Marrakech,Massira 1,1200DH,64,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Casablanca,Aïn Borja,14000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Alsace Lorraine,5500000DH,442,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,oui,non,non
+Casablanca,Anfa,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Aïn Chock,2799DH,11200,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Centre,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,1500000DH,89,Nan,Nan,Nan,1,Nan,Nan,Nan,0,non,non,oui,non,non,non
+Casablanca,Palmier,3500000DH,180,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,8,non,non,non,non,non,non
+Casablanca,Belvédère,1115000DH,92,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,non,non,non,non,non
+Casablanca,Bourgogne,3200000DH,145,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,oui,non,oui
+Rabat,Autre secteur,2200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Les Portes de Marrakech,1750000DH,152,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,non,non,non
+Casablanca,Alsace Lorraine,1750000DH,159,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,non
+Casablanca,Oasis,1550000DH,166,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,oui,non,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Sidi Kacem,Toute la ville,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Autre secteur,2100000DH,127,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,4,non,oui,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Roches Noires,1030000DH,75,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,7,oui,oui,oui,non,oui,oui
+Casablanca,Ain Sebaa,790000DH,Nan,Nan,Moins de 1 an,2,1,Nan,Nan,Neuf,3,non,oui,non,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Anfa,12000000DH,633,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Oujda,Hay Salam,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,200000DH,34,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Maarif,900000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,3,non,non,non,non,oui,oui
+Marrakech,Massira 1,630000DH,49,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,oui
+Casablanca,Derb Ghallef,490000DH,40,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Tanger,Drissia,800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Route d'El Jadida,1622000DH,84,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Kénitra,Autre secteur,270000DH,46,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,oui,non,non,non
+Fès,Route de Sefrou,900DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Centre Ville,950000DH,92,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Maamora,750DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Beauséjour,1200000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Fquih Ben Saleh,Toute la ville,3000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Casablanca,Maarif,950000DH,53,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,4,non,oui,oui,oui,oui,oui
+Marrakech,Bouaakkaz,1630000DH,103,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Temara,Ain Atig,300000DH,45,Nan,6-10 ans,Nan,1,Nan,Economique,Bon état,0,non,oui,oui,non,non,non
+Oujda,CGI,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Bouskoura,Bouskoura centre,590000DH,60,Nan,6-10 ans,Nan,1,Nan,Moyen standing,Bon état,0,non,oui,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Bernoussi,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,620000DH,96,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,1,oui,non,oui,non,non,non
+Rabat,Hassan,1150000DH,63,Nan,21+ ans,Nan,1,Nan,Nan,Nan,6,non,non,non,non,non,non
+Oujda,Centre Ville,48000000DH,60,Nan,Nan,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Oujda,Centre Ville,450000DH,50,Nan,Moins de 1 an,1,1,Nan,Moyen standing,Neuf,1,oui,non,non,non,non,oui
+Kénitra,Centre,460000DH,53,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,non,non,oui,oui,oui
+Marrakech,Amerchich,672000DH,56,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Casablanca,Gauthier,4500DH,140,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,non
+Fès,Centre,500000DH,62,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,6,non,non,oui,non,oui,oui
+Casablanca,Abdelmoumen,1700000DH,80,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,7,non,oui,oui,oui,oui,non
+Marrakech,Majorelle,650000DH,52,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,oui,non,oui,oui,oui,oui
+Tanger,Centre ville,1300000DH,98,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,3,non,oui,oui,non,non,oui
+Marrakech,Guéliz,1300000DH,126,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Fès,Agdal,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Founty,1260000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Marrakech,Hay Massira,1200000DH,85,Nan,Nan,Nan,1,Nan,Nan,Bon état,3,oui,oui,oui,oui,oui,oui
+Casablanca,Oasis,3038000DH,124,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,non,oui,oui
+Mohammedia,Wafa,900000DH,85,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,oui,non
+Marrakech,Guéliz,700000DH,44,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,non,oui,non,oui,oui
+Casablanca,2 Mars,3024000DH,168,Nan,6-10 ans,Nan,1,Nan,Haut standing,Bon état,1,non,oui,oui,oui,oui,oui
+Casablanca,La Gironde,9800DH,105,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,non,non,non,non,oui
+Marrakech,Route de Safi,810000DH,61,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,oui,oui,oui
+Fès,Centre,880000DH,151,Nan,Nan,Nan,2,Nan,Nan,Nan,2,non,non,non,non,oui,oui
+Casablanca,Maarif,1830000DH,148,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,oui,non,non,non,oui
+Marrakech,Targa,8000DH,Nan,Nan,1-5 ans,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Tanger,Centre ville,1190000DH,100,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,oui,non,non,oui
+Temara,Centre Ville,13000DH,93,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Marrakech,Daoudiate,524000DH,40,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,oui,oui,oui
+Marrakech,Massira 1,720000DH,108,Nan,11-20 ans,3,1,Nan,Nan,Nan,3,oui,non,oui,non,non,non
+Casablanca,Triangle d'Or,1630000DH,91,Nan,Nan,Nan,Nan,Nan,Nan,Nan,7,non,non,oui,oui,oui,oui
+Tanger,Castilla,1500000DH,88,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,4,oui,non,oui,non,non,oui
+Casablanca,Sidi Maarouf,1700000DH,133,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Casablanca,Quartier des Hôpitaux,1260000DH,86,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,5,non,oui,oui,non,oui,oui
+Casablanca,Gauthier,4600000DH,220,Nan,Nan,Nan,Nan,Nan,Nan,Nan,7,non,non,oui,oui,non,oui
+Rabat,Les Orangers,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Bd Derfoufi,490000DH,80,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,non,oui
+Salé,Hay Salam,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Route de Sefrou,350DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Fonciere,1064000DH,76,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,oui,oui,oui,oui,oui
+Fès,Centre,12000DH,50,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,6,oui,oui,oui,oui,oui,oui
+Casablanca,Sidi Belyout,1200000DH,122,Nan,Nan,Nan,1,Nan,Nan,Nan,3,oui,non,non,non,non,oui
+Casablanca,Anfa,3000000DH,112,Nan,21+ ans,Nan,2,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,2 Mars,15000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,2 Mars,1980000DH,168,Nan,21+ ans,Nan,3,Nan,Nan,Nan,2,oui,oui,non,non,non,oui
+Fès,Hay Atlas,480000DH,130,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Tanger,Centre ville,1500000DH,Nan,Nan,11-20 ans,2,1,Nan,Nan,Nan,1,non,non,non,non,non,oui
+Kénitra,Maamora,360000DH,43,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Temara,Centre Ville,914500DH,59,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,non,non,non,non,oui
+Casablanca,Aïn Diab,878000DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Agadir,Centre Ville,1400000DH,120,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Agdal,420000DH,45,Nan,1-5 ans,Nan,1,Nan,Nan,à rénover,7,non,oui,oui,oui,oui,oui
+Casablanca,Anfa,2700000DH,164,Nan,21+ ans,Nan,Nan,Nan,Nan,Nan,1,oui,oui,non,non,non,oui
+Rabat,Médina de Rabat,200000DH,35,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Anfa,150DH,82,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Tanger,Administratif,1590000DH,79,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Fès,Autre secteur,250DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Quartier des Hôpitaux,780000DH,65,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,non,non,non,oui
+Rabat,Hassan,1500000DH,96,Nan,21+ ans,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Ain Amiyer,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Hassan,600000DH,70,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Casablanca,Belvédère,520000DH,40,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,non,non,oui
+Fès,Centre,480000DH,59,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,3,non,non,non,non,non,oui
+Casablanca,Maarif,950000DH,51,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,oui,oui,oui,oui
+Agadir,Centre Ville,2600000DH,Nan,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Sbata,120000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,1750000DH,100,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,oui,oui,oui,oui,oui
+Rabat,Autre secteur,7500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Casablanca,Ain Sebaa,9000DH,412,Nan,Nan,Nan,4,Nan,Nan,Nan,1,non,non,oui,non,non,oui
+Casablanca,Roches Noires,1100000DH,91,Nan,Nan,Nan,2,Nan,Nan,Nan,5,oui,oui,non,non,non,oui
+Marrakech,Targa,820000DH,77,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Maarif,1985000DH,107,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,oui,oui,oui,non,oui
+Casablanca,Errahma,650000DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,oui,oui,oui
+Marrakech,Guéliz,400000DH,70,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,non,non,non,non
+Tanger,Centre,1350000DH,128,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Aïn Chock,540000DH,60,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,Centre,900000DH,78,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,non,oui,oui,oui,non
+Casablanca,Anfa,12000000DH,1215,Nan,Nan,Nan,4,Nan,Nan,Nan,5,oui,oui,oui,non,non,oui
+Marrakech,Av Abdelkrim El Khattabi,750000DH,50,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,1,oui,non,oui,non,non,oui
+Fès,Ain Amiyer,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sidi Belyout,1600000DH,92,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Salé,Hay Karima,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Autre secteur,25000DH,Nan,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,0,non,non,non,non,non,non
+Marrakech,Guéliz,1700000DH,74,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,oui,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Souissi,21000000DH,2000,Nan,1-5 ans,5,4,Nan,Nan,Nan,Nan,oui,oui,oui,oui,oui,non
+Casablanca,Centre Ville,1DH,240,Nan,21+ ans,Nan,Nan,Nan,Nan,Nan,6,non,non,non,non,non,oui
+Casablanca,Palmier,1685000DH,100,Nan,21+ ans,Nan,1,Nan,Nan,Bon état,0,non,non,non,non,non,non
+Marrakech,Hivernage,1200000DH,57,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Bouskoura,Victoria,600000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,non,oui
+Casablanca,Autre secteur,1050000DH,125,Nan,Nan,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,oui
+Marrakech,Hivernage,930000DH,93,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,oui
+Casablanca,Bourgogne,1600000DH,123,Nan,6-10 ans,3,2,Nan,Nan,Nan,1,oui,oui,oui,non,non,oui
+Kénitra,Val Fleury,11000DH,148,Nan,6-10 ans,Nan,2,Nan,Nan,Nan,1,non,non,oui,non,non,non
+Salé,Hay Chmaou,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Maarif,1330000DH,111,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,non,oui,oui
+Marrakech,Guéliz,1960000DH,87,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Kénitra,Al Maghrib Al Arabi,470000DH,80,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,oui,non,non
+Casablanca,Al Fida,840000DH,81,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,non,non,non,non,non
+Casablanca,Maarif,2000000DH,80,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,7,oui,oui,oui,oui,oui,oui
+Kénitra,Centre,600000DH,49,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Mediouna,Toute la ville,450000DH,63,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,non,non,non
+Casablanca,Aïn Chock,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Hay Moulay Rachid,4500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Route d'Azemmour,764700DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Meknès,Hamria,750000DH,102,Nan,21+ ans,3,1,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Rabat,Haut Agdal,2400000DH,150,Nan,21+ ans,3,3,Nan,Nan,Nan,3,non,oui,oui,oui,oui,non
+Casablanca,Centre Ville,1390000DH,146,Nan,11-20 ans,Nan,2,Nan,Nan,Nan,2,non,non,non,non,non,non
+Martil,Toute la ville,180000DH,24,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Oasis,1080000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,0,non,non,oui,non,oui,non
+Temara,Centre Ville,3000000DH,Nan,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,0,non,oui,oui,non,non,non
+Dar Bouazza,Toute la ville,580000DH,41,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,oui,non,non,oui
+Casablanca,Ain Sebaa,1700000DH,425,Nan,Moins de 1 an,Nan,2,Nan,Nan,à rénover,Nan,non,oui,oui,non,non,non
+Agadir,Sonaba,1700000DH,85,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Agadir,Taddart Anza,450000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,non,non,oui,non
+Marrakech,Hay Charaf,690000DH,75,Nan,11-20 ans,2,2,Nan,Nan,Nan,2,non,non,non,non,oui,non
+Casablanca,Derb Ghallef,1320500DH,77,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Casablanca,Derb Ghallef,1311750DH,68,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Marrakech,Guéliz,600000DH,52,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Marrakech,Daoudiate,535000DH,41,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,oui,oui,oui
+Safi,Safi 1,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Aïn Borja,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Bourgogne,1300000DH,84,Nan,Nan,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Mohammedia,Riad 1,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Ain Sebaa,650000DH,63,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,non,non,oui
+Casablanca,Mers Sultan,33000000DH,2666,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,oui,non,non,non,oui
+Casablanca,Ain Sebaa,111DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Marchan,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Centre Ville,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Taddart Anza,420000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,non,non,oui,non
+Casablanca,Centre Ville,540000DH,65,Nan,21+ ans,Nan,2,Nan,Nan,Nan,5,oui,non,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Founty,1224000DH,68,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,oui,oui,non,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Centre,290000DH,53,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,oui,non,non,non,non,oui
+Agadir,Zone Industrielle Agadir,837000DH,59,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,6,oui,oui,oui,non,oui,oui
+El Jadida,Hay Al Amal,750DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Yacoub El Mansour,1150000DH,77,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Kénitra,Maamora,700000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Oasis,1420000DH,67,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Hay Hassani,547000DH,46,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,5,oui,oui,oui,non,non,oui
+Casablanca,Centre Ville,520000DH,45,Nan,11-20 ans,1,1,Nan,Nan,Nan,2,oui,non,oui,non,non,oui
+Mohammedia,Quartier du Parc,750000DH,54,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,3,non,oui,oui,non,non,oui
+Agadir,Av Mokawama,837000DH,59,Nan,Nan,Nan,1,Nan,Nan,Neuf,3,non,oui,oui,non,oui,oui
+Marrakech,Guéliz,2000DH,50,Nan,Nan,1,1,Nan,Nan,Nan,1,oui,non,non,non,non,non
+Fès,Hay Atlas,700000DH,60,Nan,Nan,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,non,non,oui
+Kénitra,Mimosas,1000000DH,70,Nan,11-20 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Casablanca,Hay Albaraka,600000DH,60,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,oui,non,non,non,oui,non
+Tanger,Bir Chifa,700000DH,Nan,Nan,6-10 ans,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,non,non,non
+Casablanca,Anfa,1713500DH,115,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Tanger,Administratif,1300000DH,130,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,non,oui,oui,oui,oui
+Casablanca,Belvédère,1350000DH,123,Nan,21+ ans,Nan,2,Nan,Nan,Nan,1,oui,non,oui,non,non,oui
+Casablanca,Derb Omar,12000DH,70,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Mohammedia,Wafa,12000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,oui,oui,oui,non,non,oui
+Kénitra,Autre secteur,400000DH,57,Nan,1-5 ans,1,1,Nan,Nan,Nan,1,non,non,oui,non,non,non
+Casablanca,Les Princesses,2100000DH,121,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Lissasfa,429000DH,Nan,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,0,oui,oui,oui,oui,oui,oui
+Marrakech,Route de Casablanca,950000DH,74,Nan,Nan,Nan,2,Nan,Nan,Nan,3,non,non,oui,non,non,non
+Kénitra,Maamora,1200000DH,130,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,8,non,non,non,non,non,non
+Kénitra,Maamora,850000DH,113,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,non
+Rabat,Hassan,7000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,880000DH,48,Nan,Nan,Nan,1,Nan,Nan,Nan,5,non,non,non,non,oui,oui
+Marrakech,Route de Safi,810000DH,61,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,oui,oui,oui,oui
+Fès,Agdal,1450000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,oui,non,non,oui,oui
+Casablanca,Centre Ville,1400000DH,63,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,oui
+Agadir,Abattoirs,1550000DH,71,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Palmier,1600000DH,70,Nan,Nan,Nan,1,Nan,Nan,Nan,6,non,oui,non,non,non,oui
+Marrakech,Allal El Fassi,940000DH,79,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,non,non
+Casablanca,Abdelmoumen,2400000DH,117,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Agadir,Abattoirs,1725000DH,100,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Kénitra,Maamora,290000DH,28,Nan,Nan,0,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Derb Omar,9000DH,50,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,oui,non,non,non,oui
+Casablanca,Maarif,1700000DH,104,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,oui,non,oui,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Sidi Slimane Echcharraa,Toute la ville,2300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Abattoirs,400000DH,70,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,oui,non
+Casablanca,Mers Sultan,750000DH,297,Nan,21+ ans,Nan,2,Nan,Nan,Bon état,1,oui,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Cité Adrar,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Salé,Cherkaoui - Marzouka,2750000DH,150,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,oui,non,non,non,non
+Casablanca,Centre Ville,240000DH,Nan,Nan,21+ ans,Nan,2,Nan,Nan,Bon état,8,non,non,oui,oui,non,oui
+Agadir,Hay Dakhla,600000DH,54,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Tamesna,Toute la ville,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,600000DH,41,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,6,non,oui,oui,oui,oui,oui
+Casablanca,Palmier,12500000DH,1019,Nan,21+ ans,Nan,7,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Casablanca,Bourgogne,2250000DH,120,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,oui,non,oui,oui,oui,non
+Settat,Toute la ville,1700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Lissasfa,100DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,3840000DH,256,Nan,21+ ans,Nan,2,Nan,Nan,Bon état,2,non,non,non,non,non,non
+Casablanca,Racine,1500000DH,105,Nan,Nan,Nan,1,Nan,Nan,Nan,6,oui,non,non,non,non,oui
+Marrakech,Guéliz,624000DH,52,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,3,non,non,non,non,non,non
+Rabat,El Youssoufia,1500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Agdal,3700000DH,105,Nan,1-5 ans,Nan,Nan,Nan,Nan,Bon état,0,non,oui,oui,oui,oui,non
+Agadir,El Houda,765000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Bon état,1,non,non,non,non,non,non
+Rabat,Agdal,3500000DH,225,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,oui,oui,oui,non,oui,oui
+Casablanca,Anfa,1150000DH,92,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,2,non,oui,oui,oui,oui,oui
+Casablanca,Ain Sebaa,1300DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+المحمدية,Quartier du Parc,900000DH,92,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Gauthier,2800000DH,300,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Roches Noires,800000DH,88,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,non,non,non,non,non
+Casablanca,Casablanca Finance City,2800000DH,190,Nan,Nan,Nan,2,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Beauséjour,2000000DH,317,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,oui,non,non,non,oui
+Casablanca,Abdelmoumen,1390000DH,Nan,Nan,Nan,Nan,1,Nan,Haut standing,Nan,2,non,oui,oui,oui,oui,oui
+Casablanca,Bourgogne,4600000DH,220,Nan,Nan,Nan,1,Nan,Nan,Nan,7,oui,non,non,non,non,oui
+Mohammedia,Quartier du Parc,1000000DH,92,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,5,non,oui,oui,non,non,oui
+Kénitra,Centre,690000DH,Nan,Nan,Moins de 1 an,Nan,3,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Rabat,Agdal,5600000DH,305,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Al Maghrib Al Arabi,690000DH,81,Nan,6-10 ans,Nan,2,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Marrakech,Route de Safi,800000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,2,non,non,oui,non,non,oui
+Kénitra,Centre,680000DH,69,Nan,Nan,Nan,Nan,Nan,Nan,Nan,5,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Av Mokawama,1390000DH,92,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Fès,Agdal,750000DH,88,Nan,11-20 ans,Nan,Nan,Nan,Nan,Nan,1,non,oui,oui,non,non,oui
+Marrakech,Guéliz,1702000DH,Nan,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Casablanca,Aïn Chock,450DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Sefrou,Toute la ville,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+El Jadida,Centre,720000DH,75,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,oui,non,oui,non,non,oui
+Temara,Al Moustakbal,600DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Centre Ville,1400000DH,75,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,6,oui,oui,oui,oui,oui,oui
+Kénitra,Centre,980000DH,105,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,5,non,oui,oui,non,non,oui
+Casablanca,Maarif,1550000DH,115,Nan,6-10 ans,Nan,2,Nan,Nan,Bon état,5,oui,oui,oui,oui,oui,oui
+Casablanca,Ben Ejdia,590000DH,62,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Gauthier,140000000DH,9000,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,oui,oui,oui,non,oui
+Casablanca,Bourgogne,100000DH,45,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2046000DH,93,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,oui,oui,oui
+Casablanca,Centre Ville,550000DH,65,Nan,21+ ans,Nan,1,Nan,Nan,Nan,5,oui,non,oui,non,non,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Tanger,Centre ville,1850000DH,131,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Route d'Azemmour,1500000DH,103,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,non,oui
+Casablanca,Quartier des Hôpitaux,13000DH,132,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,non,oui,oui,non,oui,oui
+Casablanca,Beauséjour,730000DH,71,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,4,oui,non,non,non,non,oui
+Settat,Toute la ville,1700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Mimosas,340DH,Nan,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Aïn Chock,590000DH,29,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,1,non,non,non,oui,oui,oui
+Oujda,Hay El Qods,250DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Ain Sebaa,150DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,1740000DH,116,Nan,21+ ans,Nan,2,Nan,Nan,Nan,6,non,oui,oui,oui,oui,oui
+Casablanca,Roches Noires,1120000DH,80,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,7,non,oui,oui,non,oui,oui
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Autre secteur,1750000DH,173,Nan,Nan,Nan,2,Nan,Nan,Nan,7,oui,non,non,non,non,oui
+Casablanca,Abdelmoumen,11000000DH,1210,Nan,21+ ans,Nan,6,Nan,Nan,Nan,1,oui,oui,oui,oui,oui,oui
+Temara,Riad Oulad Mtaa,1450000DH,71,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Meknès,Autre secteur,20000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,490000DH,42,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,8,non,oui,oui,non,oui,oui
+Casablanca,Sidi Maarouf,2200000DH,124,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,5,non,oui,oui,non,oui,oui
+Fès,Hay Atlas,750000DH,156,Nan,6-10 ans,Nan,2,Nan,Nan,Bon état,0,oui,oui,oui,non,oui,non
+Marrakech,Hay Izdihar,1650000DH,103,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Tanger,Centre ville,170000DH,65,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,oui,non,oui,non,non,oui
+Fès,Mont Fleuri 2,80000DH,Nan,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,non
+Rabat,Diour Jamaa,1200000DH,80,Nan,21+ ans,Nan,1,Nan,Nan,Nan,1,non,oui,oui,non,non,oui
+Ksar el-Kebir,Toute la ville,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Sonaba,1296000DH,72,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,oui,oui,oui,non,oui,oui
+Kénitra,La Ville Haute,1100DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Hay Mohammadi,75DH,75,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,3,non,non,non,non,non,non
+Agadir,Founty,2240000DH,166,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,3,non,non,oui,oui,oui,oui
+Marrakech,Agdal,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Souissi,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,2500000DH,101,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Mers Sultan,850000DH,50,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,oui,oui,non,non,oui
+Azemmour,Toute la ville,400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Oujda,Centre Ville,640000DH,60,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,oui,oui,oui,non,non,oui
+Fès,Zouagha,3000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Palmier,8500000DH,364,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,non,non,non,non,non,non
+Kénitra,La Ville Haute,620000DH,60,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,oui,non
+Casablanca,Quartier des Hôpitaux,2600000DH,173,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,oui
+Casablanca,2 Mars,1400DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Sbata,3000DH,64,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Kénitra,Centre,690000DH,74,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,0,non,non,oui,non,non,non
+Mohammedia,Wafa,900000DH,85,Nan,Nan,Nan,1,Nan,Nan,Nan,1,oui,non,non,non,non,non
+Casablanca,Maârif Extension,2500000DH,113,Nan,Nan,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,oui
+El Jadida,Centre,870000DH,94,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,oui,oui
+El Jadida,Centre,10000DH,72,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,non,non,non
+El Jadida,Biranzarane,630000DH,65,Nan,Nan,Nan,Nan,Nan,Nan,Nan,4,non,non,non,non,non,non
+Casablanca,Maarif,3000000DH,213,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,oui,oui,oui,oui,oui,oui
+Casablanca,Oulfa,3000DH,3,Nan,Nan,Nan,Nan,Nan,Nan,Nan,3,non,non,non,non,non,non
+Casablanca,Centre Ville,1150000DH,Nan,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,2,non,non,non,oui,oui,oui
+Tétouan,Centre ville,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,495000DH,43,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,2,non,non,non,non,non,non
+Casablanca,Maarif,1282500DH,72,Nan,Moins de 1 an,Nan,1,Nan,Haut standing,Neuf,4,oui,oui,oui,oui,oui,oui
+Casablanca,Maarif,1359000DH,77,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Bouskoura,Bouskoura centre,472500DH,45,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Casablanca,Derb Omar,1350000DH,214,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Aïn Diab,2095000DH,124,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,oui,non,oui
+Marrakech,M'Hamid,780000DH,70,Nan,Moins de 1 an,1,1,Nan,Nan,Neuf,4,oui,non,oui,oui,oui,oui
+Agadir,Centre Ville,4900000DH,480,Nan,Nan,Nan,1,Nan,Nan,Nan,4,non,non,non,non,non,non
+Kénitra,La Ville Haute,435000DH,50,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,6,non,non,non,non,non,non
+Casablanca,La Gare,2272000DH,Nan,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,0,oui,oui,oui,oui,oui,oui
+Casablanca,Bourgogne,5000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Hay Salam,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Mers Sultan,15000DH,78,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,4,oui,oui,oui,oui,oui,oui
+Rabat,Yacoub El Mansour,1450000DH,92,Nan,11-20 ans,Nan,2,Nan,Haut standing,Neuf,3,non,oui,oui,non,oui,oui
+Rabat,Yacoub El Mansour,3700000DH,170,Nan,11-20 ans,Nan,3,Nan,Nan,Nan,3,oui,oui,oui,non,non,non
+Casablanca,Belvédère,680000DH,64,Nan,11-20 ans,Nan,1,Nan,Nan,Nan,1,non,non,non,non,non,non
+Casablanca,Palmier,975000DH,78,Nan,Nan,Nan,1,Nan,Nan,Nan,2,non,non,non,non,non,oui
+Meknès,Hamria,750000DH,55,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,non,non,non,non,non,oui
+Casablanca,Californie,19000000DH,1178,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,non,oui,oui,non,oui,non
+Casablanca,Maarif,1100000DH,61,Nan,Nan,Nan,Nan,Nan,Nan,Nan,1,non,non,oui,oui,oui,oui
+Agadir,Centre Ville,1245000DH,83,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,non,non,non,non,non
+Casablanca,Sidi Moumen,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Abdelmoumen,1935000DH,86,Nan,Moins de 1 an,Nan,2,Nan,Nan,Neuf,5,oui,oui,oui,oui,oui,oui
+Kénitra,La Ville Haute,500000DH,60,Nan,6-10 ans,Nan,1,Nan,Nan,Bon état,1,non,non,oui,non,oui,non
+Casablanca,Lissasfa,250DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Centre Ville,1350000DH,61,Nan,1-5 ans,Nan,1,Nan,Nan,Neuf,7,non,oui,oui,non,oui,oui
+Casablanca,Aïn Diab,1000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Autre secteur,2000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Ain Sebaa,15000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Yacoub El Mansour,1700000DH,100,Nan,1-5 ans,Nan,2,Nan,Nan,Nan,4,oui,oui,oui,oui,oui,oui
+Casablanca,2 Mars,1100000DH,62,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,oui,oui,oui,oui,oui,oui
+Fès,Hay Atlas,430000DH,64,Nan,Nan,Nan,1,Nan,Nan,Bon état,2,non,non,oui,non,non,non
+Casablanca,Oulfa,450DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,1800DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,M'Hamid,2500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Assaka,550DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,1296000DH,164,Nan,Nan,Nan,Nan,Nan,Nan,Nan,6,oui,oui,oui,oui,oui,oui
+Bouskoura,Bouskoura centre,637500DH,75,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,1,non,oui,oui,non,oui,oui
+Temara,Massira 1,1400000DH,87,Nan,Nan,Nan,2,Nan,Nan,Nan,1,oui,non,oui,non,non,non
+Casablanca,Lissasfa,12000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Bouskoura,Ville verte,820DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Fès,Agdal,280000DH,32,Nan,11-20 ans,1,1,Nan,Moyen standing,Bon état,0,non,non,non,non,non,non
+Agadir,Hay Mohammadi,700DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Ain Sebaa,18000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Autre secteur,600000DH,55,Nan,1-5 ans,Nan,1,Nan,Nan,Bon état,4,oui,oui,oui,oui,oui,oui
+Casablanca,Hay El Farah,1200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Hay Hassani,789000DH,60,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,5,oui,oui,oui,oui,oui,oui
+Tanger,Marjane,200DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Kénitra,Centre,720000DH,60,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,4,oui,oui,oui,oui,oui,oui
+Oujda,Centre Ville,600000DH,74,Nan,11-20 ans,Nan,2,Nan,Nan,Neuf,7,non,non,oui,oui,oui,oui
+Casablanca,Hay Hassani,595000DH,47,Nan,1-5 ans,Nan,1,Nan,Nan,Nan,5,non,non,non,non,non,non
+Casablanca,Abdelmoumen,23000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Rabat,Agdal,2950000DH,120,Nan,6-10 ans,Nan,2,Nan,Nan,Bon état,1,oui,oui,oui,oui,oui,oui
+Marrakech,Agdal,14000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Agadir,Abattoirs,616000DH,56,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,3,non,non,non,non,non,non
+Casablanca,Bourgogne,1150000DH,49,Nan,Nan,Nan,Nan,Nan,Nan,Nan,0,oui,oui,non,oui,oui,non
+Tanger,Centre,2900DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Marrakech,Guéliz,650000DH,45,Nan,Moins de 1 an,Nan,1,Nan,Nan,Neuf,2,oui,oui,oui,oui,oui,oui
+Agadir,Tassila,507000DH,Nan,Nan,Moins de 1 an,Nan,Nan,Nan,Nan,Neuf,4,oui,oui,oui,non,non,oui
+Rabat,Hassan,1500000DH,143,Nan,6-10 ans,Nan,1,Nan,Nan,Nan,0,non,oui,oui,oui,oui,oui
+Casablanca,Lissasfa,149DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Temara,Centre Ville,992000DH,62,Nan,Moins de 1 an,Nan,0,Nan,Nan,Neuf,2,non,oui,oui,non,oui,oui
+Marrakech,M'Hamid,4000DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Mohammedia,Autre secteur,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
+Casablanca,Roches Noires,500DH,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,non,non,non,non,non,non
